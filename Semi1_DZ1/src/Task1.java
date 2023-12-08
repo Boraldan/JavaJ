@@ -1,6 +1,11 @@
 import java.util.Arrays;
 import java.util.List;
 
+/**
+ * Напишите программу, которая использует Stream API для обработки списка чисел.
+ * Программа должна вывести на экран среднее значение всех четных чисел в списке.
+ */
+
 public class Task1 {
     public static void main(String[] args) {
 
