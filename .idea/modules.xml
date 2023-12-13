@@ -3,8 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/JavaJunior.iml" filepath="$PROJECT_DIR$/JavaJunior.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Semi1/Semi1.iml" filepath="$PROJECT_DIR$/Semi1/Semi1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Semi1_DZ1/Semi1_DZ1.iml" filepath="$PROJECT_DIR$/Semi1_DZ1/Semi1_DZ1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Semi1_Stream/Semi1_Stream.iml" filepath="$PROJECT_DIR$/Semi1_Stream/Semi1_Stream.iml" />
     </modules>
   </component>
 </project>
