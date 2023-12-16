@@ -82,15 +82,14 @@ public class ClientManager implements Runnable {
             try {
                 // Чтение данных
                 massageFromClient = bufferedReader.readLine();
-                //TODO вставить логику личных сообщений
+                //TODO  вставлена логика личных сообщений
                 if (massageFromClient.contains(": $")) {
                     if (!privateMessage(massageFromClient)) {
                         this.bufferedWriter.write("Такого персонажа в чате нет.");
                         this.bufferedWriter.newLine();
                         this.bufferedWriter.flush();
                     }
-                }
-                else {
+                } else {
                     broadcastMessage(massageFromClient);
                 }
 

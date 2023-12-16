@@ -9,6 +9,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="Semi2_DZ2" />
         <module name="Semi3_DZ3" />
+        <module name="Semi4_DZ4" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
